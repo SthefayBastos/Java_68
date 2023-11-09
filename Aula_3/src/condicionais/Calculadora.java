@@ -1,4 +1,4 @@
-package aula_2;
+package condicionais;
 
 import java.util.Scanner; 
 
