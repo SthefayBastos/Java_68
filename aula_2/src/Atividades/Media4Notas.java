@@ -1,4 +1,4 @@
-package media4notas;
+package Atividades;
 
 import java.util.Scanner;
 

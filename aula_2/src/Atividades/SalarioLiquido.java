@@ -1,4 +1,4 @@
-package salarioliqui;
+package Atividades;
 
 import java.util.Scanner;
 

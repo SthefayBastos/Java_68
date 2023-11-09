@@ -1,4 +1,4 @@
-package exe01salarioabono;
+package Atividades;
 
 import java.util.Scanner;
 
