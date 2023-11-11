@@ -6,7 +6,7 @@ public class Tabuada {
 
 	static Scanner leia = new Scanner(System.in);
 	public static void main(String[] args) {
-		 int numero;
+		 int numero; 
 		 
 		 System.out.println("Digite um número: ");
 		 numero = leia.nextInt();
