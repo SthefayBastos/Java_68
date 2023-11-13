@@ -22,7 +22,7 @@ public class Exer02_aula5 {
 		System.out.println("Digite um número:");
 		vetNumIn[indice] = leia.nextInt();
 		somaElem += vetNumIn[indice];
-		mediaTodosElem =  (somaElem / vetNumIn[indice]);
+		mediaTodosElem =  (((float)somaElem) / vetNumIn[indice]);
 		}
 		
 		
@@ -35,7 +35,7 @@ public class Exer02_aula5 {
 				System.out.println("Estes são os elementos pares | " + vetNumIn[indice] + "|");
 			}
 			System.out.println("Aqui está a soma de todos os elementos: " + somaElem);
-			System.out.println("Aqui está a média dos elementos: " + mediaTodosElem);
+			System.out.printf("Aqui está a média dos elementos: %.f" , mediaTodosElem);
 		
 	} 	
 		
